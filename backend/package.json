@@ -1,0 +1,8 @@
+{
+  "name": "feedback-backend",
+  "version": "1.0.0",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "resend": "^1.0.0"
+  }
+}
